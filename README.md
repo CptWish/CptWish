@@ -1,7 +1,7 @@
 <p align = "center">
 <img style="width:500px;" src="https://cdn.dribbble.com/users/6201/screenshots/4809337/media/b9c7c0839bd0350db517d084c930c37c.gif"/>
 <p>
-<h1 align="center">I'm <a href="https://github.com/Wi-sh99">Wi.sh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Wi-sh99">Wish<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
   <h1>About Me! 😎</h1>
 <h1><b>‼️‼️‼️Attention‼️‼️‼️</h1></b></h1>
