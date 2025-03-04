@@ -1,6 +1,6 @@
 <p align = "center">
 <img style="width:500px;" src="https://cdn.dribbble.com/users/6201/screenshots/4809337/media/b9c7c0839bd0350db517d084c930c37c.gif"/>
-<p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wish online)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wish online)](https://git.io/typing-svg)
 
   <h1>About Me! 😎</h1>
 <h1><b>‼️‼️‼️Attention‼️‼️‼️</h1></b></h1>
