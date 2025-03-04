@@ -5,6 +5,6 @@
 ### Welcome traveller!
 👦 I am **Batuhan** a.k.a **Wish**\
 📌 A Penetration tester with a huge passion\
-🔨 I do vuln hunts and as you may have guessed; penetration testing\
+🔨 I do ,as you may have guessed, penetration testing\
 ⛔ I lost access to my old account [batuhan-dilek99](https://github.com/batuhan-dilek99/). You can check that out \
 🌍 Here is my website [Pretend like this is a link]
